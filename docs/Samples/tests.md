@@ -5,5 +5,5 @@ sort: 100
 # Tests
 
 ---
-data data data
+| col1 | col2 | col3 |
 ---
