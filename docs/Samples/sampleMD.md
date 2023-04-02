@@ -69,6 +69,13 @@ This is unordered list.
     - aa
        - ddd 
 
+# Tables
+
+Use \| and \- for making tables.
+
+| col1 | col2 | col3 |
+| --- | --- | --- |
+| text1 | text2 | text3 |
 
 # Blocks
 
