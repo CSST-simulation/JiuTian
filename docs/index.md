@@ -1,2 +1,2 @@
-## [JiuTian Simulation Documentation](JiuTian.github.io)
+## [JiuTian Simulatios Documentation](https://csst-simulation.github.io/JiuTian/)
 
