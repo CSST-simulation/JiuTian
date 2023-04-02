@@ -2,6 +2,6 @@
 sort: 3
 ---
 
-# Data Products index page
+# Data Products
 
 {% include list.liquid %}
