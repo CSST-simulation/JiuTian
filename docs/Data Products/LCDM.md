@@ -1,7 +1,7 @@
 ---
-sort: 2
+sort: 1
 ---
 
-# Advanced
+# Main simulation
 
 {% include list.liquid %}
