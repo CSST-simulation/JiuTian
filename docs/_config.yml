@@ -1,16 +1,16 @@
-title: JiuTian Simulations Documentation
+title: Gravity Documentation
 
-description: Welcome!
+description: Welcome everyone to contribute to this Doc!
 
 remote_theme: rundocs/jekyll-rtd-theme
 
 readme_index:
   with_frontmatter: true
 
-author: [CSST Simulation Collaboration]
+author: [Gravity Admins]
 
 copyright:
-  since: 2023 # like: 2000
+  since: 2020 # like: 2000
   revision: false # is show the revision
 
 gems:
