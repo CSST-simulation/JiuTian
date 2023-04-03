@@ -95,7 +95,7 @@ Block can be nested.  Use \>\> for level 2 block.
 
 Use \`\`\` for blocks with style and specify the style afterward.
 ```warning
-This is a warning block.  Although it looks a normal block in most markdown environment.
+This is a warning block.  Although it looks a normal block in most markdown environment, it shows with style on webpage.  
 Valid type includes warning, note, tip.
 ```
 
@@ -115,6 +115,7 @@ Use \*\*\*, \-\-\-, or \_\_\_ (triple stars, minus signs, or underscores) to cre
 ***
 ---
 ___
+Note that horizontal lines will not show up in some webpage environment.  
 
 # Images
 To add an image, add an exclamation mark \!, followed by alt text in brackets \[\], and the path or URL to the image asset in parentheses\(\). You can optionally add a title in quotation marks after the path or URL.
